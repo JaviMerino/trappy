@@ -20,7 +20,7 @@ virtualenv:
 notifications:
   email:
     recipients:
-      - javi.merino@arm.com
+      - merino.jav@gmail.com
     on_success: never
     on_failure: always
 cache:
